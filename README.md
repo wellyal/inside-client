@@ -2,6 +2,11 @@
 
 Inside is an open source platform to deal with all the intern process of a company related to its employees. Our goal is to make easy to keep a track and manage all information related to the people that work **inside** the company.
 
+| Master | Development |
+| :----: | :---------: |
+| [![Build Status][travis_badge_master]][travis_link] | [![Build Status][travis_badge_development]][travis_link] |
+| [![codecov][codecov_badge_master]][codecov_link] | [![codecov][codecov_badge_development]][codecov_link] |
+
 ## Getting Started
 
 To get started you will need to get a copy of the project, insert the following commands (one by one) on your terminal.
@@ -72,3 +77,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) site
 * Ifactory Team
 * Coders
 * All our loved users
+
+[codecov_badge_master]: https://codecov.io/gh/ifactory-solutions/inside_client/branch/master/graph/badge.svg
+[codecov_badge_development]: https://codecov.io/gh/ifactory-solutions/inside_client/branch/development/graph/badge.svg
+[codecov_link]: https://codecov.io/gh/ifactory-solutions/inside_client
+[travis_badge_master]: https://travis-ci.org/ifactory-solutions/inside_client.svg?branch=master
+[travis_badge_development]: https://travis-ci.org/ifactory-solutions/inside_client.svg?branch=development
+[travis_link]: https://travis-ci.org/ifactory-solutions/inside_client
